@@ -1,0 +1,57 @@
+Time: 90.418
+ Distance(ft): 427.1867
+ Good Time: 82.8430000000001
+ Good Rate: 0.916455556170144
+Time: 48.191
+ Distance(ft): 156.864
+ Good Time: 37.015
+ Good Rate: 0.768456236505564
+Time: 46.218
+ Distance(ft): 53.09306
+ Good Time: 23.244
+ Good Rate: 0.503269388992336
+Distance(ft): 0
+ Total Times: 0
+ Freq (millisecond/time): 0
+Distance(ft): 20.41647
+ Total Times: 9
+ Freq (millisecond/time): 27.00405
+Time: 71.244
+ Distance(ft): 284.0388
+ Good Time: 54.6370000000002
+ Good Rate: 0.767147330141394
+Distance(ft): 52.0156
+ Total Times: 17
+ Freq (millisecond/time): 51.04083
+Distance(ft): 37.71618
+ Total Times: 14
+ Freq (millisecond/time): 42.0063
+Time: 11.721
+ Distance(ft): 29.85562
+ Good Time: 8.142
+ Good Rate: 0.69607591690177
+Time: 48.575
+ Distance(ft): 200.2318
+ Good Time: 34.4900000000001
+ Good Rate: 0.710372384247819
+Time: 17.188
+ Distance(ft): 0
+ Good Time: 0
+ Good Rate: 0
+Time: 5.136
+ Distance(ft): 1.799728
+ Good Time: 2.118
+ Good Rate: 0.414238216311363
+Time: 47.029
+ Distance(ft): 116.0394
+ Good Time: 23.347
+ Good Rate: 0.49669184129348
+Distance(ft): 60.84992
+ Total Times: 6
+ Freq (millisecond/time): 18.0036
+Distance(ft): 82.92673
+ Total Times: 5
+ Freq (millisecond/time): 20.01802
+Distance(ft): 39.82678
+ Total Times: 8
+ Freq (millisecond/time): 40.03603
